@@ -93,15 +93,6 @@ body {
     justify-content: center;
 }
 
-#output .result {
-    transition: transform 0.5s ease-in-out; 
-}
-
-#output:hover .result {
-    transform: scale(1.4);
-    
-}
-
 /* extra styles */
 
  #container, #output {
